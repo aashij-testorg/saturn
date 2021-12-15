@@ -1,4 +1,4 @@
-name: Pull docker image
+name: Pull docker image (same repo)
 on: push
 
 permissions:
